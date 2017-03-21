@@ -1,0 +1,18 @@
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\bin\Debug\middleearth.exe.config
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\bin\Debug\middleearth.exe
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\bin\Debug\middleearth.pdb
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\obj\Debug\middleearth.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\obj\Debug\middleearth.exe
+\\mac\home\documents\visual studio 2015\Projects\middleearth\middleearth\obj\Debug\middleearth.pdb
+X:\middleearth\middleearth\bin\Debug\middleearth.exe.config
+X:\middleearth\middleearth\obj\Debug\middleearth.exe
+X:\middleearth\middleearth\obj\Debug\middleearth.pdb
+X:\middleearth\middleearth\bin\Debug\middleearth.exe
+X:\middleearth\middleearth\bin\Debug\middleearth.pdb
+X:\middleearth\middleearth\obj\Debug\middleearth.csprojResolveAssemblyReference.cache
+F:\middleearth\middleearth\bin\Debug\middleearth.exe.config
+F:\middleearth\middleearth\obj\Debug\middleearth.exe
+F:\middleearth\middleearth\obj\Debug\middleearth.pdb
+F:\middleearth\middleearth\bin\Debug\middleearth.exe
+F:\middleearth\middleearth\bin\Debug\middleearth.pdb
+F:\middleearth\middleearth\obj\Debug\middleearth.csprojResolveAssemblyReference.cache
